@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Save poor BWed children in china!
+# Save poor children in china!
 # Save me!
 <!--
 **unjerry/unjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
