@@ -1,5 +1,7 @@
-## Hi there 👋
+Sometimes, the only payoff for having any faith
+Is when it's tested again and again every day
 <!--
+## Hi there 👋
 **unjerry/unjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
